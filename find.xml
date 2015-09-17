@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory 'C:\golang\src\github.com\latticework\proto-goquiles-server-todo'" />
-    <option name="defaultScopeName" value="Directory 'C:\golang\src\github.com\latticework\proto-goquiles-server-todo'" />
+    <option name="customScope" value="Project 'proto-goquiles-server-todo'" />
+    <option name="defaultScopeName" value="Project 'proto-goquiles-server-todo'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\golang\src\github.com\latticework\proto-goquiles-server-todo'" />
+    <option name="SEARCH_SCOPE" value="Project 'proto-goquiles-server-todo'" />
   </component>
 </application>
